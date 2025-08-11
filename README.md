@@ -1,6 +1,7 @@
 # Filpkart Smartphone Web Scrapping and Price Prediction
 
 📱 Mobile Price Prediction
+
 📌 Project Overview
 This project predicts the selling price of mobile phones based on their specifications such as RAM, ROM, display size, camera megapixels, brand, rating, and discount status.
 The dataset was scraped from e-commerce product listings, cleaned, processed, and used to train machine learning models.

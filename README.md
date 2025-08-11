@@ -31,8 +31,11 @@ Target Variable: Selling Price Num — Selling price in INR
 We tested multiple regression models:
 
 Model	MAE	RMSE	R²
+
 Linear Regression	8079.43	12686.65	0.7955
+
 Random Forest	5873.46	9565.39	0.8837
+
 Gradient Boosting	4691.48	8478.12	0.9086
 
 Final chosen model: GradientBoostingRegressor (best performance)

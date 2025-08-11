@@ -85,9 +85,6 @@ The Gradient Boosting model predicts the estimated price.
 
 The predicted price is displayed in INR.
 
-📸 Screenshots
-(You can add Streamlit app screenshots here)
-
 📌 Future Improvements
 Allow users to choose between models in the UI.
 

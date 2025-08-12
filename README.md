@@ -42,7 +42,8 @@ Final chosen model: GradientBoostingRegressor (best performance)
 
 🛠 Tech Stack
 Python
-Selenium, Beautiful Soup - Web Scrapping
+
+Selenium - Web Scrapping
 
 Pandas, NumPy — Data processing
 

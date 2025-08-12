@@ -5,7 +5,7 @@ import joblib
 # Load model
 model = joblib.load('mobile_price_model.pkl')
 
-st.title("📱 Mobile Price Prediction App")
+st.title("📱 Smartphones Price Prediction")
 st.write("Enter the mobile specifications to get an estimated price.")
 
 # Input fields
@@ -31,3 +31,4 @@ if st.button("Predict Price"):
     
     predicted_price = model.predict(input_df)[0]
     st.success(f"Estimated Selling Price: ₹{predicted_price:,.0f}")
+
